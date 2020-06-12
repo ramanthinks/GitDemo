@@ -1,0 +1,6 @@
+11:56:21.584 [TestNG-tests-1] INFO  automationTest.HomePageTest - company logo confirmed
+11:56:21.793 [TestNG-tests-1] INFO  automationTest.HomePageTest - covid message
+11:56:22.560 [TestNG-tests-2] INFO  automationTest.ReservationCentreTest - WebPage open for reservation
+11:56:23.210 [TestNG-tests-3] INFO  automationTest.VCarsTest - HYUNDAI ACCENT OR SIMILAR is printed
+11:56:23.300 [TestNG-tests-3] INFO  automationTest.VCarsTest - TOYOTA COROLLA OR SIMILAR is printed
+11:56:25.176 [TestNG-tests-4] INFO  automationTest.VTruckTest - Light Duty & Heavy Duty F150 – F350 or Similar is printed

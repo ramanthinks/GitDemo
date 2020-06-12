@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" >
+<listeners>
+<listener class-name="automationTest.Listeners">
+</listener>
+
+</listeners>
+  
+  <test  name="HomePage">
+    <classes>
+    <class name="automationTest.HomePageTest"/>
+      </classes>
+  </test> 
+  
+  <test  name="ResPage">
+    <classes>
+      <class name="automationTest.ReservationCentreTest"/>
+       </classes>
+  </test> 
+  
+  <test  name="VCars">
+    <classes>
+      <class name="automationTest.VCarsTest"/>
+    </classes>
+  </test>
+
+  <test  name="VTrucks">
+    <classes>
+      <class name="automationTest.VTruckTest"/>
+    </classes>
+  </test>
+  
+</suite> <!-- Suite -->

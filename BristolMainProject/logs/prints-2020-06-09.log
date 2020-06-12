@@ -1,0 +1,6 @@
+11:54:25.839 [main] INFO  automationTest.VTruckTest - WebPage opens for Truck Tab
+11:54:29.832 [main] INFO  automationTest.VTruckTest - Light Duty & Heavy Duty F150 – F350 or Similar is printed
+11:56:18.718 [TestNG-tests-4] INFO  automationTest.VTruckTest - WebPage opens for Truck Tab
+11:56:18.718 [TestNG-tests-1] INFO  automationTest.HomePageTest - driver is initalized
+11:56:18.718 [TestNG-tests-3] INFO  automationTest.VCarsTest - WebPage opens for Car Tab
+11:56:21.463 [TestNG-tests-1] INFO  automationTest.HomePageTest - Broswer navigate to Bristol home page
